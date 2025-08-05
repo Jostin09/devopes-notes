@@ -26,7 +26,7 @@ Este repositorio sera mi lugar de aprednizaje: aquí documento mis prácticas, n
 | `/git/`             | Comandos y flujos de trabajo con Git         |
 | `/docker/`          | Primeros pasos y ejercicios con Docker       |
 | `/ci-cd/`           | Ejemplos de pipelines con GitHub Actions     |
-| `/notas.md`         | Apuntes generales y resumen de aprendizaje   |
+| `/apuntes/`         | Apuntes generales y resumen de aprendizaje   |
 
 ---
 
