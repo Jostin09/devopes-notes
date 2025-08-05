@@ -39,7 +39,7 @@ Mi objetivo es convertirme en **DevOps Junior**, aplicando automatización, buen
 ## ✉️ Contacto
 
 - 📧 Email: [jostinestudio90@gmail.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jostin-maruri-chapa-570417264)
 
 ---
 
