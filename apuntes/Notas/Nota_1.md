@@ -12,10 +12,10 @@ Tambien tengo que tener en cuenta que no le podre dedicar muchas horas a mi proy
 
 ---
 
-**Estos dias**
-Decidi leer y repsar algo en Linux Journey que complementare con algun cursos de los siguientes que consulte con chatgpt, ya que no se muy bien por donde empezar o encontrar cursos:
+Estos dias decidi leer y repsar algo en Linux Journey que complementare con algun cursos de los siguientes que consulte con chatgpt, ya que no se muy bien por donde empezar o encontrar cursos:
 
 💻 Cursos recomendados (en español)
+
 Udemy:
 DevOps para principiantes (5-7 horas)
 Git y GitHub desde cero (4-6 horas)
