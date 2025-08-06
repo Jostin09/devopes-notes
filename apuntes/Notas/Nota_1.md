@@ -18,11 +18,15 @@ Estos dias decidi leer y repsar algo en Linux Journey que complementare con algu
 
 Udemy:
 DevOps para principiantes (5-7 horas)
+
 Git y GitHub desde cero (4-6 horas)
+
 Docker básico para desarrolladores (5 horas)
 
 Coursera:
+
 Introduction to DevOps (Curso corto, puedes auditar gratis)
+
 Google IT Automation with Python (más largo, pero con prácticas pequeñas)
 
 Tambien tome algun que otro apunte quizas mas por curiosidad como la historia de linux.
