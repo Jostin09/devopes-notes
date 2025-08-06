@@ -12,7 +12,7 @@ Tambien tengo que tener en cuenta que no le podre dedicar muchas horas a mi proy
 
 ---
 
-**
+** Estos dias **
 Decidi leer y repsar algo en Linux Journey que complementare con algun cursos de los siguientes que consulte con chatgpt, ya que no se muy bien por donde empezar o encontrar cursos:
 
 💻 Cursos recomendados (en español)
