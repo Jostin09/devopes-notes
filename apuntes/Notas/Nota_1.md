@@ -16,14 +16,15 @@ Estos dias decidi leer y repsar algo en Linux Journey que complementare con algu
 
 💻 Cursos recomendados (en español)
 
-Udemy:
+**Udemy**:
+
 DevOps para principiantes (5-7 horas)
 
 Git y GitHub desde cero (4-6 horas)
 
 Docker básico para desarrolladores (5 horas)
 
-Coursera:
+**Coursera**:
 
 Introduction to DevOps (Curso corto, puedes auditar gratis)
 
