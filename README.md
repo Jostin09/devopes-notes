@@ -5,7 +5,7 @@ Estoy especializándome en **DevOps**, aprendiendo desde lo más básico hasta h
 
 Este repositorio sera mi lugar de aprednizaje: aquí documento mis prácticas, notas, comandos útiles y pequeños proyectos relacionados con DevOps.
 
-/!\ Tambien cabe recalcar que aun estoy en proceso de estructurar correctamente mi repositorio, habran cambios y actualizaciones recurrentes /!\
+**Tambien cabe recalcar que aun estoy en proceso de estructurar correctamente mi repositorio, habran cambios y actualizaciones recurrentes**
 
 ---
 
